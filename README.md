@@ -4,4 +4,4 @@ Repository for my personal Arma Reforger mods.
 
 ## List of mods
 
-- [Where my squad leader](addons/SquadLeadMapIconColor)
+- [Where my squad leader](addons/WhereMySquadLeader)
