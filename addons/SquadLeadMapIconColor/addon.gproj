@@ -1,8 +1,0 @@
-GameProject {
- ID "SquadLeadMapIconColor"
- GUID "65C26C3A48446A1D"
- TITLE "SquadLeadMapIconColor"
- Dependencies {
-  "58D0FB3206B6F859"
- }
-}

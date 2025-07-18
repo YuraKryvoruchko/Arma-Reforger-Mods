@@ -18,8 +18,8 @@ Just include the mod. This mod should work great in vanilla conflict.
 
 1. For adding new faction you have to override the **MapMarkerConfig.conf**;
 2. In the SQUAD_LEADER directory you have to add new element to the **Factions**;
-3. In the **Faction Key** field you write the faction key of your faction;
-4. In the **Faction Own Squad Color** you paste the color in which the round icon will be painted.
+3. In the **Faction** field you write the faction key your faction;
+4. In the **Faction color** you paste the color in which the round icon will be painted;
 
 # Usefull resources
 
